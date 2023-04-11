@@ -1,0 +1,13 @@
+* {
+  list-style-type: none;
+}
+.home_section {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.button_container {
+  display: flex;
+  margin-bottom: 2rem;
+}
